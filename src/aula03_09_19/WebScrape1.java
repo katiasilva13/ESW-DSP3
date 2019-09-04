@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package aula03_09_19;
- // baixar jsoup
+ 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
